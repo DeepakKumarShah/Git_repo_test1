@@ -1,3 +1,1 @@
-# Hi
-
-# hello
+# Getting started with Github and Doxygen.
