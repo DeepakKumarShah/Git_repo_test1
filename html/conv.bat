@@ -1,0 +1,1 @@
+for %%F in (*.html) do pandoc %%F > .\..\md\%%F.md
